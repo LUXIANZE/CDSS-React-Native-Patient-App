@@ -1,0 +1,12 @@
+{
+  "name": "CDSS-ReactNative-PatientApp",
+  "displayName": "CDSS-ReactNative-PatientApp",
+  "expo": {
+    "name": "CDSS-ReactNative-PatientApp",
+    "slug": "CDSS-ReactNative-PatientApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

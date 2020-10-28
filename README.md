@@ -13,7 +13,7 @@ This is a product under the series of CDSS projects, where this mobile applicati
 ```
 npm install -g expo-cli
 git clone https://github.com/LUXIANZE/CDSS-React-Native-Patient-App.git
-npm i
+yarn
 expo start
 ```
 - Then, a QR code will show up in your terminal
